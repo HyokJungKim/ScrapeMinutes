@@ -7,9 +7,7 @@
 #
 # Authors : Kim, Hyok Jung(Department of Economics, UC Davis)
 #
-# Date : October 21st, 2017
-#
-# Note : Fixed bug in PyPFD2
+# Date : Jan 28th, 2019
 #
 # ------------------------------------------------------------------------------
 
